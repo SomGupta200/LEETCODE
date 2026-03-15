@@ -31,4 +31,9 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SomGupta200/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [3193-count-the-number-of-inversions](https://github.com/SomGupta200/LEETCODE/tree/master/3193-count-the-number-of-inversions) |
+## Array
+|  |
+| ------- |
+| [3193-count-the-number-of-inversions](https://github.com/SomGupta200/LEETCODE/tree/master/3193-count-the-number-of-inversions) |
 <!---LeetCode Topics End-->
