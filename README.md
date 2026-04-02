@@ -4,6 +4,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -23,6 +24,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SomGupta200/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -51,6 +53,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -116,4 +119,8 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
