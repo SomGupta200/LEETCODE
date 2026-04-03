@@ -22,13 +22,15 @@ class Solution {
 
         while(!st.isEmpty()){
             TreeNode curr = st.pop();
-
+            // push right first
             if(curr.right != null){
                 st.push(curr.right);
             }
+            // push left next
             if(curr.left != null){
                 st.push(curr.left);
             }
+            //connect to next node
             if(!st.isEmpty()){
                 curr.right = st.peek();
             }
