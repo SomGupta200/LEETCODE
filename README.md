@@ -16,6 +16,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SomGupta200/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/SomGupta200/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/SomGupta200/LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -71,6 +72,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SomGupta200/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/SomGupta200/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/SomGupta200/LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -143,6 +145,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/SomGupta200/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SomGupta200/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
