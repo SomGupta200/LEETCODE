@@ -102,6 +102,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/SomGupta200/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0518-coin-change-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0518-coin-change-ii) |
+| [0983-minimum-cost-for-tickets](https://github.com/SomGupta200/LEETCODE/tree/master/0983-minimum-cost-for-tickets) |
 | [3193-count-the-number-of-inversions](https://github.com/SomGupta200/LEETCODE/tree/master/3193-count-the-number-of-inversions) |
 ## Array
 |  |
@@ -110,6 +111,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0213-house-robber-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0518-coin-change-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0518-coin-change-ii) |
+| [0983-minimum-cost-for-tickets](https://github.com/SomGupta200/LEETCODE/tree/master/0983-minimum-cost-for-tickets) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SomGupta200/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3193-count-the-number-of-inversions](https://github.com/SomGupta200/LEETCODE/tree/master/3193-count-the-number-of-inversions) |
 ## Hash Table
