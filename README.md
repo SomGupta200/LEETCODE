@@ -103,6 +103,7 @@
 | [0213-house-robber-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0518-coin-change-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/SomGupta200/LEETCODE/tree/master/0983-minimum-cost-for-tickets) |
+| [1143-longest-common-subsequence](https://github.com/SomGupta200/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [3193-count-the-number-of-inversions](https://github.com/SomGupta200/LEETCODE/tree/master/3193-count-the-number-of-inversions) |
 ## Array
 |  |
@@ -132,6 +133,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/SomGupta200/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1143-longest-common-subsequence](https://github.com/SomGupta200/LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
