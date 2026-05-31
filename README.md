@@ -118,6 +118,7 @@
 | [0983-minimum-cost-for-tickets](https://github.com/SomGupta200/LEETCODE/tree/master/0983-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SomGupta200/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2906-construct-product-matrix](https://github.com/SomGupta200/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [3193-count-the-number-of-inversions](https://github.com/SomGupta200/LEETCODE/tree/master/3193-count-the-number-of-inversions) |
 ## Hash Table
 |  |
@@ -196,4 +197,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SomGupta200/LEETCODE/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [2906-construct-product-matrix](https://github.com/SomGupta200/LEETCODE/tree/master/2906-construct-product-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [2906-construct-product-matrix](https://github.com/SomGupta200/LEETCODE/tree/master/2906-construct-product-matrix) |
 <!---LeetCode Topics End-->
