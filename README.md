@@ -110,6 +110,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SomGupta200/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/SomGupta200/LEETCODE/tree/master/0120-triangle) |
@@ -124,6 +125,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SomGupta200/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/SomGupta200/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
@@ -205,6 +207,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SomGupta200/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [2906-construct-product-matrix](https://github.com/SomGupta200/LEETCODE/tree/master/2906-construct-product-matrix) |
 ## Prefix Sum
 |  |
