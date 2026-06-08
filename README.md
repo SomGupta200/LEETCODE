@@ -110,6 +110,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SomGupta200/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SomGupta200/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -198,6 +199,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SomGupta200/LEETCODE/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SomGupta200/LEETCODE/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/SomGupta200/LEETCODE/tree/master/0202-happy-number) |
 ## Combinatorics
@@ -207,6 +209,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SomGupta200/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SomGupta200/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [2906-construct-product-matrix](https://github.com/SomGupta200/LEETCODE/tree/master/2906-construct-product-matrix) |
 ## Prefix Sum
