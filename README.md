@@ -120,6 +120,7 @@
 | [0518-coin-change-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/SomGupta200/LEETCODE/tree/master/0983-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SomGupta200/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SomGupta200/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SomGupta200/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2906-construct-product-matrix](https://github.com/SomGupta200/LEETCODE/tree/master/2906-construct-product-matrix) |
