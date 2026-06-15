@@ -122,6 +122,7 @@
 | [0213-house-robber-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0518-coin-change-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0518-coin-change-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/SomGupta200/LEETCODE/tree/master/0983-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SomGupta200/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -150,6 +151,7 @@
 | [0018-4sum](https://github.com/SomGupta200/LEETCODE/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
 ## String
@@ -209,6 +211,7 @@
 | [0088-merge-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/SomGupta200/LEETCODE/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SomGupta200/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0977-squares-of-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
 ## Math
 |  |
