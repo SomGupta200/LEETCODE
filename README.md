@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SomGupta200/LEETCODE/tree/master/0062-unique-paths) |
+| [0118-pascals-triangle](https://github.com/SomGupta200/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SomGupta200/LEETCODE/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SomGupta200/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0213-house-robber-ii) |
@@ -117,6 +118,7 @@
 | [0088-merge-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/SomGupta200/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SomGupta200/LEETCODE/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SomGupta200/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0213-house-robber-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0213-house-robber-ii) |
