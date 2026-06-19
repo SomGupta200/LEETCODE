@@ -124,6 +124,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/SomGupta200/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0213-house-robber-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SomGupta200/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0518-coin-change-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/SomGupta200/LEETCODE/tree/master/0983-minimum-cost-for-tickets) |
@@ -142,6 +143,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/SomGupta200/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/SomGupta200/LEETCODE/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SomGupta200/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SomGupta200/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -154,6 +156,7 @@
 | [0018-4sum](https://github.com/SomGupta200/LEETCODE/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SomGupta200/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
