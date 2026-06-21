@@ -128,6 +128,7 @@
 | [0229-majority-element-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SomGupta200/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0518-coin-change-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0518-coin-change-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SomGupta200/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/SomGupta200/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/SomGupta200/LEETCODE/tree/master/0983-minimum-cost-for-tickets) |
@@ -161,6 +162,7 @@
 | [0088-merge-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SomGupta200/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SomGupta200/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
@@ -230,6 +232,7 @@
 | [0048-rotate-image](https://github.com/SomGupta200/LEETCODE/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SomGupta200/LEETCODE/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/SomGupta200/LEETCODE/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SomGupta200/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 ## Combinatorics
 |  |
 | ------- |
