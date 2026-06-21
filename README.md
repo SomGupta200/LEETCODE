@@ -102,6 +102,7 @@
 | [0118-pascals-triangle](https://github.com/SomGupta200/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SomGupta200/LEETCODE/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SomGupta200/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/SomGupta200/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/SomGupta200/LEETCODE/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0518-coin-change-ii) |
@@ -122,6 +123,7 @@
 | [0118-pascals-triangle](https://github.com/SomGupta200/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SomGupta200/LEETCODE/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SomGupta200/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/SomGupta200/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SomGupta200/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
