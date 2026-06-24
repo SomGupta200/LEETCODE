@@ -124,6 +124,7 @@
 | [0120-triangle](https://github.com/SomGupta200/LEETCODE/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SomGupta200/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/SomGupta200/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0213-house-robber-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SomGupta200/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -182,6 +183,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/SomGupta200/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/SomGupta200/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/SomGupta200/LEETCODE/tree/master/0704-binary-search) |
