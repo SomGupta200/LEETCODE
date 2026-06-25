@@ -117,6 +117,7 @@
 | [0018-4sum](https://github.com/SomGupta200/LEETCODE/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/SomGupta200/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SomGupta200/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SomGupta200/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -183,6 +184,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/SomGupta200/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/SomGupta200/LEETCODE/tree/master/0493-reverse-pairs) |
