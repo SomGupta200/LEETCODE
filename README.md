@@ -132,6 +132,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/SomGupta200/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/SomGupta200/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SomGupta200/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/SomGupta200/LEETCODE/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/SomGupta200/LEETCODE/tree/master/0904-fruit-into-baskets) |
@@ -190,6 +191,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/SomGupta200/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/SomGupta200/LEETCODE/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SomGupta200/LEETCODE/tree/master/0704-binary-search) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SomGupta200/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Bit Manipulation
