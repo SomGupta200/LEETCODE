@@ -144,6 +144,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SomGupta200/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1539-kth-missing-positive-number](https://github.com/SomGupta200/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SomGupta200/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SomGupta200/LEETCODE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SomGupta200/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2906-construct-product-matrix](https://github.com/SomGupta200/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [3193-count-the-number-of-inversions](https://github.com/SomGupta200/LEETCODE/tree/master/3193-count-the-number-of-inversions) |
@@ -175,6 +176,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SomGupta200/LEETCODE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## String
 |  |
 | ------- |
@@ -297,4 +299,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SomGupta200/LEETCODE/tree/master/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SomGupta200/LEETCODE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 <!---LeetCode Topics End-->
