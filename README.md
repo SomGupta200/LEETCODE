@@ -143,6 +143,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SomGupta200/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SomGupta200/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1539-kth-missing-positive-number](https://github.com/SomGupta200/LEETCODE/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/SomGupta200/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SomGupta200/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SomGupta200/LEETCODE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SomGupta200/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -176,6 +177,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1552-magnetic-force-between-two-balls](https://github.com/SomGupta200/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SomGupta200/LEETCODE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## String
 |  |
@@ -202,6 +204,7 @@
 | [0875-koko-eating-bananas](https://github.com/SomGupta200/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SomGupta200/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/SomGupta200/LEETCODE/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/SomGupta200/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SomGupta200/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
