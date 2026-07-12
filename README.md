@@ -142,6 +142,7 @@
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SomGupta200/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SomGupta200/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1390-four-divisors](https://github.com/SomGupta200/LEETCODE/tree/master/1390-four-divisors) |
 | [1539-kth-missing-positive-number](https://github.com/SomGupta200/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SomGupta200/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SomGupta200/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -259,6 +260,7 @@
 | [0069-sqrtx](https://github.com/SomGupta200/LEETCODE/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/SomGupta200/LEETCODE/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SomGupta200/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1390-four-divisors](https://github.com/SomGupta200/LEETCODE/tree/master/1390-four-divisors) |
 ## Combinatorics
 |  |
 | ------- |
