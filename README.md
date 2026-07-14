@@ -211,6 +211,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/SomGupta200/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/SomGupta200/LEETCODE/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/SomGupta200/LEETCODE/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
@@ -260,6 +261,7 @@
 | [0062-unique-paths](https://github.com/SomGupta200/LEETCODE/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SomGupta200/LEETCODE/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/SomGupta200/LEETCODE/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/SomGupta200/LEETCODE/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SomGupta200/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/SomGupta200/LEETCODE/tree/master/1390-four-divisors) |
 ## Combinatorics
@@ -309,4 +311,8 @@
 |  |
 | ------- |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SomGupta200/LEETCODE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SomGupta200/LEETCODE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
