@@ -138,6 +138,7 @@
 | [0704-binary-search](https://github.com/SomGupta200/LEETCODE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SomGupta200/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/SomGupta200/LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [0941-valid-mountain-array](https://github.com/SomGupta200/LEETCODE/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/SomGupta200/LEETCODE/tree/master/0983-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
