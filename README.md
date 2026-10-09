@@ -144,6 +144,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SomGupta200/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SomGupta200/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1390-four-divisors](https://github.com/SomGupta200/LEETCODE/tree/master/1390-four-divisors) |
+| [1470-shuffle-the-array](https://github.com/SomGupta200/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/SomGupta200/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SomGupta200/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SomGupta200/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
