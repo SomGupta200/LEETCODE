@@ -152,6 +152,7 @@
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SomGupta200/LEETCODE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SomGupta200/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2906-construct-product-matrix](https://github.com/SomGupta200/LEETCODE/tree/master/2906-construct-product-matrix) |
+| [3046-split-the-array](https://github.com/SomGupta200/LEETCODE/tree/master/3046-split-the-array) |
 | [3193-count-the-number-of-inversions](https://github.com/SomGupta200/LEETCODE/tree/master/3193-count-the-number-of-inversions) |
 ## Hash Table
 |  |
@@ -170,6 +171,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SomGupta200/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3046-split-the-array](https://github.com/SomGupta200/LEETCODE/tree/master/3046-split-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0229-majority-element-ii) |
+| [3046-split-the-array](https://github.com/SomGupta200/LEETCODE/tree/master/3046-split-the-array) |
 ## Sliding Window
 |  |
 | ------- |
