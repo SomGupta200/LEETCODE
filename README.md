@@ -142,6 +142,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/SomGupta200/LEETCODE/tree/master/0983-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1122-relative-sort-array](https://github.com/SomGupta200/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SomGupta200/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SomGupta200/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1390-four-divisors](https://github.com/SomGupta200/LEETCODE/tree/master/1390-four-divisors) |
@@ -170,6 +171,7 @@
 | [0904-fruit-into-baskets](https://github.com/SomGupta200/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1122-relative-sort-array](https://github.com/SomGupta200/LEETCODE/tree/master/1122-relative-sort-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SomGupta200/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3046-split-the-array](https://github.com/SomGupta200/LEETCODE/tree/master/3046-split-the-array) |
 ## Sorting
@@ -184,6 +186,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1122-relative-sort-array](https://github.com/SomGupta200/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SomGupta200/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SomGupta200/LEETCODE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## String
@@ -327,4 +330,16 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SomGupta200/LEETCODE/tree/master/0496-next-greater-element-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/SomGupta200/LEETCODE/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/SomGupta200/LEETCODE/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/SomGupta200/LEETCODE/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
