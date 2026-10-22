@@ -167,6 +167,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/SomGupta200/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SomGupta200/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SomGupta200/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0791-custom-sort-string](https://github.com/SomGupta200/LEETCODE/tree/master/0791-custom-sort-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/SomGupta200/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -183,6 +184,7 @@
 | [0229-majority-element-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SomGupta200/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SomGupta200/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0791-custom-sort-string](https://github.com/SomGupta200/LEETCODE/tree/master/0791-custom-sort-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
@@ -194,6 +196,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/SomGupta200/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SomGupta200/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0791-custom-sort-string](https://github.com/SomGupta200/LEETCODE/tree/master/0791-custom-sort-string) |
 | [1048-longest-string-chain](https://github.com/SomGupta200/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/SomGupta200/LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
