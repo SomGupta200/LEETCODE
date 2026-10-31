@@ -211,6 +211,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SomGupta200/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/SomGupta200/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0367-valid-perfect-square](https://github.com/SomGupta200/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/SomGupta200/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SomGupta200/LEETCODE/tree/master/0704-binary-search) |
@@ -275,6 +276,7 @@
 | [0069-sqrtx](https://github.com/SomGupta200/LEETCODE/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/SomGupta200/LEETCODE/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SomGupta200/LEETCODE/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/SomGupta200/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SomGupta200/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/SomGupta200/LEETCODE/tree/master/1390-four-divisors) |
 ## Combinatorics
