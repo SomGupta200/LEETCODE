@@ -138,6 +138,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SomGupta200/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/SomGupta200/LEETCODE/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SomGupta200/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/SomGupta200/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/SomGupta200/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/SomGupta200/LEETCODE/tree/master/0941-valid-mountain-array) |
@@ -219,6 +220,7 @@
 | [0493-reverse-pairs](https://github.com/SomGupta200/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SomGupta200/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SomGupta200/LEETCODE/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SomGupta200/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/SomGupta200/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SomGupta200/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/SomGupta200/LEETCODE/tree/master/1539-kth-missing-positive-number) |
